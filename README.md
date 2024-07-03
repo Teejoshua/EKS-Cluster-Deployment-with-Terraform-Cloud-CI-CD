@@ -120,7 +120,5 @@ aws eks update-kubeconfig --name <EKS_CLUSTER_NAME> --region <REGION>
   <img src="https://imgur.com/7iMQJlY.gif" />
 </p>
 
-------
-## :biohazard: ᴄʀᴇᴅɪᴛs & ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʟɪᴋᴇ ᴛʜɪs ᴏʀ ғᴏʟʟᴏᴡ
 
-Ⓒ [Harshhaa Dev Projects](https://github.com/Harshhaa-Dev-Projects.git) - Made with :yellow_heart: from [Harshhaa Vardhan Reddy](https://github.com/NotHarshhaa.git)
+Ⓒ [Teejoshua Projects](https://github.com/Teejoshua/EKS-Cluster-Deployment-with-Terraform-Cloud-CI-CD.git)
