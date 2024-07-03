@@ -55,7 +55,7 @@
 *First, clone my GitHub repository:*
 
 ```
-git clone https://github.com/harshhaareddy/eks-cluster-terraform
+git clone https://github.com/Teejoshua/EKS-Cluster-Deployment-with-Terraform-Cloud-CI-CD.git
 ```
 
 *Change into the directory to the folder shown below:*
